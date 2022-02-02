@@ -46,7 +46,7 @@ echo '<?xml version="1.0" encoding="UTF8"?>
       <vendor>sun</vendor>
     </provides>
     <configuration>
-      <jdkHome>/usr/lib/jvm/java-1.11.0-openjdk-amd64/</jdkHome>
+      <jdkHome>/usr/lib/jvm/java-11-openjdk-amd64/</jdkHome>
     </configuration>
   </toolchain>
   <toolchain>
